@@ -8,7 +8,7 @@ Full disclosure - I'm making this so that I have something to do at work wheneve
 Also, I thought it'd be fun to make a Snake clone because I love the game and I've never made one before
 
 ### Getting Started
-Here's a tough one - to play the game, download the only other file in the repo, and then run it with [Python 3.7](https://www.python.org/downloads/) (look at me using links 'n such like a real software developer
+Here's a tough one - to play the game, download the only other file in the repo, and then run it with [Python 3.7](https://www.python.org/downloads/) (look at me using links 'n such like a real software developer)
 
 ## TODO
 - Make a leaderboard and store scores in a database (probably with MySQL)
